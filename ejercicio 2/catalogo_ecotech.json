@@ -1,0 +1,15 @@
+[
+    {
+        "modelo": "PanelTitan-500",
+        "precio": 1200.0,
+        "stock": 10,
+        "tipo": "Panel Solar",
+        "potencia_watts": 500
+    },
+    {
+        "modelo": "Termostato Smart",
+        "precio": 350.0,
+        "stock": 15,
+        "tipo": "Dispositivo Genérico"
+    }
+]
